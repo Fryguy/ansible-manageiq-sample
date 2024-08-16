@@ -1,6 +1,6 @@
 galaxy_info:
   role_name: example
-  author: "ManageIQ Authors"
+  author: ManageIQ Authors
   description: A non-invasive example ansible role for verifying an ansible-galaxy setup
   company: ManageIQ
   license: MIT
