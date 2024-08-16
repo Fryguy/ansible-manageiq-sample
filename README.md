@@ -30,7 +30,7 @@ Including an example of how to use your role (for instance, with variables passe
 License
 -------
 
-BSD
+The project is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 Author Information
 ------------------
