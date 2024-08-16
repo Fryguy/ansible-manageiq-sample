@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: sample
   author: ManageIQ
   description: A non-invasive, simple, sample ansible role for verifying an ansible-galaxy setup
   company: ManageIQ
